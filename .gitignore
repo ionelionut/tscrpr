@@ -1,0 +1,4 @@
+# Ignorare fișiere de configurare ale mediului virtual
+.venv/
+__pycache__/
+*.pyc
